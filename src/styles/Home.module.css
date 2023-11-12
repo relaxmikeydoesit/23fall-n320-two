@@ -2,15 +2,17 @@
   color: #edd15d;
   font-size: 3rem;
   background-color: #3d405b;
-  padding: 25px;
-  height: 20%;
+  padding: 20px 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  height: 18%;
+  font-weight: 800;
 }
 .inverseText {
   color: #3d405b;
   font-size: 2rem;
   background-color: #edd15d;
   padding: 25px;
-  height: 12%;
+  height: 10%;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-style: oblique;
   text-align: right;
