@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <h1 className={styles.bigGoldText}>Hello, friend!</h1>
-      <p className={styles.bigGoldText}> The boilerplate which was here has been replaced! </p>
+      <h2 className={styles.inverseText}> This Single Page Application is built with React & Next.js. </h2>
 
     </>
   );

@@ -5,5 +5,15 @@
   padding: 25px;
   height: 25%;
 }
- 
+.inverseText {
+  color: #3d405b;
+  font-size: 2rem;
+  background-color: #edd15d;
+  padding: 25px;
+  height: 16%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: oblique;
+  text-align: right;
+}
+
 
