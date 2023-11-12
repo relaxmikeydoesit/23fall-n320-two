@@ -1,8 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PRODUCTIVITY HUB - Single-Page React Application
+## Built on Next.js | Deployed on Vercel 
+## Live Link: [https://23fall-n320-one.vercel.app/]
+
 
 ## Getting Started
 
-First, run the development server:
 
 ```bash
 npm run dev
