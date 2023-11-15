@@ -1,0 +1,34 @@
+.heading {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.form {
+    padding: 5px;
+
+}
+.formField {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    width: 500px;
+
+
+}
+.formField .label {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.formField .input {
+    height: 30px;
+    font-size: 18px;
+    padding: 5px;
+ 
+}
+.submit {
+    height: 30px;
+    width: 100%;
+    font-size: 20px;
+    margin-top: 10px;
+}

@@ -1,25 +1,29 @@
-import '@/styles/globals.css'
+import '@/styles/globals.css';
+import Link from 'next/link';
 
 export default function App({ Component, pageProps }) {
+  // console.count('App Loaded')
   return (
 <>
 <nav className='navbar'>
   <ul>
     <li>
-	<a href='/'>HOME</a>
+	<Link href='/'>HOME</Link>
     </li>
     <li>
-	<a href='/about'>ABOUT</a>
+	<Link href='/about'>ABOUT</Link>
     </li>
     <li>
-	<a href='/services'>SERVICES</a>
+	<Link href='/services'>SERVICES</Link>
     </li>
     <li>
-	<a href='/contact'>CONTACT</a>
+	<Link href='/contact'>CONTACT</Link>
     </li>
   </ul>
 </nav>
 <Component {...pageProps} />
+
+
      </>
   ); 
   

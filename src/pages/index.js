@@ -1,7 +1,6 @@
 import React from "react";
 import styles from '@/styles/Home.module.css';
 import Navbar from '@/components/Navbar';
-import Link from 'next/link';
 import Hero from '@/components/Hero';
 import UtilityTimer from '@/components/UtilityTimer';
 import LilListr from '@/components/LilListr';
