@@ -37,6 +37,9 @@ h1, h2, h3, h4, h5, h6, p {
   text-decoration: overline;
   margin-top: 10px;
   font-weight: 600;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.sitecolor {
+  background-color: #3d405b;
 }
