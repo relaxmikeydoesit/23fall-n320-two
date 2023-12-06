@@ -23,7 +23,7 @@ export default function Contact() {
             //fullName = e.currentTarget.value;
             setFullName(e.currentTarget.value);
         }
-        if(e.currentTarget.name === 'email') {
+        if(e.currentTarget.email === 'email') {
             // email = e.currentTarget.value;
             setEmail(e.currentTarget.value);
         }

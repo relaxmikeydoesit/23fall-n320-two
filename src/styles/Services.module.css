@@ -1,0 +1,50 @@
+.servicesContainer {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #000;
+    margin: 40px 60px;
+    padding: 40px 60px;
+    text-wrap: pretty;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    background-color: bisque;
+    width: 45%;
+
+}
+
+.servicesContainer h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: wavy underline;
+    font-weight: 500;
+    color: #000;
+    margin: 10px 0 30px;
+    padding: 0;
+    /* text-align: center; */
+}
+
+.servicesContainer h2 {
+    padding-left: -10px;
+    text-decoration: underline;
+}
+.servicesContainer h3 {
+    font-style: italic;
+}
+
+.servicesContainer li {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 10px;
+    width: 500px;
+}
+.servicesContainer ul {
+    padding-bottom: 20px;
+}
+.sideImage {
+    width: 30%;
+    height: 400px;
+    background-color: aqua;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
